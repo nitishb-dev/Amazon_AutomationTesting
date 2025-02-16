@@ -20,8 +20,8 @@ This project automates the testing of the Amazon website using **Selenium WebDri
 
 ## 🚀 Setup & Execution (Eclipse IDE)
 ### 1️⃣ Clone the repository  
-```bash
-git clone https://github.com/your-username/Amazon-Automation-Testing.git
+
+git clone https://github.com/your-username/Amazon-Automation-Testing.git 
 
 ### 2️⃣ Import Project into Eclipse
 Open Eclipse IDE
@@ -37,7 +37,7 @@ Then, select Run As → Maven Install
 Right-click on the testng.xml file
 Select Run As → TestNG Suite
 
-📊 Test Reports
+## 📊 Test Reports
 After execution, detailed test reports will be generated in the test-output folder in Eclipse. The report includes:
 
 ✅ Number of passed, failed, and skipped test cases
@@ -48,4 +48,4 @@ Test reports can be exported in HTML, XML, and JSON formats for further analysis
 📩 Contributing
 Feel free to fork this repository, raise issues, or submit pull requests if you have improvements or bug fixes. Let's make testing more efficient! 🚀
 
-## ⭐ Don't forget to star the repo if you find it useful! ⭐
+### ⭐ Don't forget to star the repo if you find it useful! ⭐
